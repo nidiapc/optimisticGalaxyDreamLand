@@ -1,0 +1,96 @@
+{
+  "document_id": "bio-protocolo-cancer-2026",
+  "title": "Guía para transitar un diagnóstico de cáncer + BioProtocolo de nutrición y terapias",
+  "source": {
+    "type": "article",
+    "platform": "Patreon",
+    "author": "Karim A Nesr",
+    "url": "https://www.patreon.com/karimanesr/posts/guia-para-un-de-173",
+    "published_date": "2026-10-23",
+    "accessed_date": "2026-11-06",
+    "original_language": "es"
+  },
+  "file": {
+    "filename": "BioProtocolo.pdf",
+    "format": "pdf",
+    "pages": 26
+  },
+  "classification": {
+    "category": "cancer_protocol",
+    "subcategory": "integrative_oncology",
+    "tags": [
+      "cancer diagnosis",
+      "bio protocol",
+      "integrative medicine",
+      "nutrition",
+      "complementary therapies",
+      "biological terrain",
+      "holistic health",
+      "patient autonomy"
+    ],
+    "keywords": {
+      "core": [
+        "cancer diagnosis",
+        "biological terrain",
+        "immune system",
+        "mitochondria",
+        "gut microbiota",
+        "inflammation"
+      ],
+      "nutrition": [
+        "ketogenic diet",
+        "fasting",
+        "autophagy",
+        "polyphenols",
+        "EGCG",
+        "curcumin",
+        "sulforaphane",
+        "omega-3",
+        "medicinal mushrooms",
+        "prebiotics"
+      ],
+      "therapies": [
+        "hyperthermia",
+        "hyperbaric oxygen",
+        "acupuncture",
+        "moxibustion",
+        "rebounding",
+        "phytotherapy",
+        "adaptogens",
+        "intravenous vitamin C",
+        "mistletoe"
+      ],
+      "lifestyle": [
+        "sunlight",
+        "circadian rhythm",
+        "grounding",
+        "strength training",
+        "mindfulness",
+        "stress management"
+      ]
+    },
+    "collections": ["Despertando la Conciencia"]
+  },
+  "content": {
+    "summary": "A holistic guide for navigating a cancer diagnosis, combining emotional support, patient autonomy, and a practical nutrition and complementary therapy protocol focused on restoring the biological terrain.",
+    "sections": [
+      "Initial impact and right to pause",
+      "Right to decide freely",
+      "Current medicine and the science of terrain",
+      "Practical BioProtocol",
+      "Holistic therapies",
+      "Recommended documentaries and books"
+    ]
+  },
+  "reliability": {
+    "evidence_level": "mixed",
+    "peer_reviewed": false,
+    "notes": "Practitioner/patient guide from a Patreon community; claims mix referenced science with unverified recommendations. Not a substitute for medical advice."
+  },
+  "related_documents": [],
+  "metadata": {
+    "date_added": "2026-11-14",
+    "added_by": "Nidia Pinzon Cardenas",
+    "project": "Santé"
+  }
+}
