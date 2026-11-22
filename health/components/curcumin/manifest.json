@@ -1,0 +1,86 @@
+{
+  "okf_version": "0.1",
+  "id": "health.component.curcumin",
+  "type": "component",
+  "title": "Curcumin",
+  "status": "active",
+  "version": "1.0.0",
+  "created": "2026-11-22",
+  "updated": "2026-11-22",
+  "summary": "The main polyphenol of turmeric (Curcuma longa), studied for anti-inflammatory and anticancer properties. In a 2026 Wroclaw Medical University study comparing five natural compounds on fibrosarcoma cells, curcumin showed the most balanced profile: strong induction of cancer-cell senescence with a relatively favorable safety profile. Preclinical only — cell lines plus an insect model, not a treatment.",
+  "tags": [
+    "curcumin",
+    "turmeric",
+    "polyphenol",
+    "NF-κB",
+    "anticancer",
+    "senescence",
+    "mitochondria",
+    "sarcoma",
+    "preclinical study",
+    "inflammation"
+  ],
+  "details": {
+    "what_it_is": "Curcumin is the main polyphenol of turmeric (Curcuma longa), widely studied for anti-inflammatory and anticancer properties.",
+    "evidence_level": "preclinical (in vitro cell lines + greater wax moth larvae model)",
+    "anticancer_research": {
+      "study": {
+        "title": "Modulation of NFκB Signaling by Natural Compounds in Sarcoma and Normal Muscle Models",
+        "authors": "Radzka, J., et al.",
+        "journal": "International Journal of Molecular Sciences 2026, 27(11), 5025",
+        "doi": "10.3390/ijms27115025",
+        "url": "https://www.mdpi.com/1422-0067/27/11/5025",
+        "institutions": ["Wroclaw Medical University", "University of Wroclaw"],
+        "models": ["fibrosarcoma cell line", "healthy muscle cells", "greater wax moth (Galleria mellonella) larvae"],
+        "compounds_compared": ["curcumin", "berberine", "biochanin A", "cucurbitacin E", "CAPE (caffeic acid phenethyl ester, from propolis)"]
+      },
+      "mechanism_focus": "Modulation of the NF-κB signaling pathway (inflammation, metabolism, cell survival, aging) — precise modulation, not complete suppression.",
+      "key_findings": [
+        "All five compounds disrupted mitochondrial function: ATP fell ~83–92% in fibrosarcoma cells vs ~23–73% in healthy muscle cells, suggesting cancer cells are more vulnerable to energy-metabolism disruption.",
+        "All five induced cellular senescence in fibrosarcoma cells; curcumin was strongest, raising the senescent fraction from ~16.5% to more than 75%.",
+        "Curcumin and CAPE showed the greatest selectivity against fibrosarcoma cells; curcumin combined strong anticancer activity with a relatively favorable safety profile — the most balanced profile of the five compounds.",
+        "In the wax moth larva toxicity model, berberine and curcumin were best tolerated; CAPE and cucurbitacin E caused higher mortality; biochanin A was the most toxic."
+      ],
+      "limitations": "In vitro cell lines plus an invertebrate model only — the authors explicitly state this does not mean curcumin can be used to treat sarcomas. Next steps: advanced in vivo models, mechanism, optimal dosing and delivery."
+    },
+    "good_for": [
+      "inflammation",
+      "preclinical anticancer research",
+      "NF-κB pathway modulation"
+    ]
+  },
+  "sources": [
+    {
+      "type": "study",
+      "title": "Modulation of NFκB Signaling by Natural Compounds in Sarcoma and Normal Muscle Models",
+      "authors": "Radzka, J., et al.",
+      "journal": "Int. J. Mol. Sci. 2026, 27(11), 5025",
+      "date": "2026",
+      "doi": "10.3390/ijms27115025",
+      "url": "https://www.mdpi.com/1422-0067/27/11/5025"
+    },
+    {
+      "type": "article",
+      "platform": "News-Medical.net",
+      "title": "Curcumin shows the best balance against cancer, study shows",
+      "date": "2026-07-22",
+      "url": "https://www.news-medical.net/news/20260722/Curcumin-shows-the-best-balance-against-cancer-study-shows.aspx",
+      "file": "files/curcumin-anticancer-effects-study.pdf",
+      "accessed_date": "2026-11-22"
+    }
+  ],
+  "relations": [
+    {
+      "id": "health.protocol.bio-protocolo-cancer",
+      "type": "mentioned_in"
+    }
+  ],
+  "files": [
+    {
+      "path": "files/curcumin-anticancer-effects-study.pdf",
+      "kind": "source_pdf",
+      "format": "pdf",
+      "pages": 8
+    }
+  ]
+}

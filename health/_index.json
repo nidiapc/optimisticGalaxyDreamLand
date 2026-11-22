@@ -2,7 +2,7 @@
   "okf_version": "0.1",
   "domain": "health",
   "title": "Health",
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "units": [
     {
       "id": "health.component.methylene-blue",
@@ -27,6 +27,14 @@
       "path": "protocols/bio-protocolo-cancer/",
       "status": "active",
       "updated": "2026-11-21"
+    },
+    {
+      "id": "health.component.curcumin",
+      "type": "component",
+      "title": "Curcumin",
+      "path": "components/curcumin/",
+      "status": "active",
+      "updated": "2026-11-22"
     }
   ]
 }

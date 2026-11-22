@@ -6,7 +6,7 @@ Personal knowledge base organized with the **Open Knowledge Format (OKF)** — s
 
 | Domain | Index | Contents |
 | ------ | ----- | -------- |
-| Health | [health/_index.json](./health/_index.json) | 2 components, 1 protocol |
+| Health | [health/_index.json](./health/_index.json) | 3 components, 1 protocol |
 | Botany | [botany/_index.json](./botany/_index.json) | 2 horticulture units (fruits, protocols); ecology & paysage empty for now |
 
 ## Structure
@@ -25,7 +25,7 @@ myKnowledge/
 
 ### Health
 
-- **Components** — [methylene blue](./health/components/methylene-blue/notes.md), [butyrate](./health/components/butyrate/notes.md)
+- **Components** — [methylene blue](./health/components/methylene-blue/notes.md), [butyrate](./health/components/butyrate/notes.md), [curcumin](./health/components/curcumin/notes.md)
 - **Protocols** — [BioProtocolo: integrative & metabolic oncology](./health/protocols/bio-protocolo-cancer/notes.md)
 
 ### Botany
