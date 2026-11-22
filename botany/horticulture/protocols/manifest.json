@@ -1,0 +1,89 @@
+{
+  "okf_version": "0.1",
+  "id": "botany.horticulture.protocols",
+  "type": "horticulture",
+  "title": "Protocols",
+  "status": "active",
+  "version": "1.0.0",
+  "created": "2026-11-22",
+  "updated": "2026-11-22",
+  "summary": "Horticulture how-to protocols. Currently covers homemade fertilizers: the common mistakes that damage plants and the right method for each ingredient.",
+  "tags": [
+    "horticulture",
+    "protocols",
+    "homemade fertilizer",
+    "organic fertilizer",
+    "coffee grounds",
+    "banana peels",
+    "eggshells",
+    "cooking water",
+    "used tea",
+    "rice water",
+    "plant care"
+  ],
+  "details": {
+    "what_it_is": "Step-by-step horticulture protocols and how-to guides.",
+    "topics": [
+      {
+        "title": "Homemade fertilizers: the mistakes that damage your plants",
+        "key_message": "It is not the ingredient itself that is the problem, but how you use it. The same material can feed your plant or burn it.",
+        "mistakes": [
+          {
+            "ingredient": "Coffee grounds",
+            "mistake": "Thick layer: forms an impermeable crust and attracts mushrooms/fungi",
+            "right_method": "Thin layer (< 5 mm / 0.2 in), mixed into the soil or diluted in water"
+          },
+          {
+            "ingredient": "Banana peels",
+            "mistake": "Fresh and whole: they ferment and can spread Fusarium",
+            "right_method": "Soak for 48 h, strain, use only the water"
+          },
+          {
+            "ingredient": "Eggshells",
+            "mistake": "Whole pieces: decompose too slowly (takes years to release anything)",
+            "right_method": "Grind into a fine powder; released usefully within one season"
+          },
+          {
+            "ingredient": "Cooking water",
+            "mistake": "Salted: causes osmotic burn of the roots",
+            "right_method": "Only if the food was cooked without salt"
+          },
+          {
+            "ingredient": "Used tea",
+            "mistake": "Weekly application: tannins build up and cause chlorosis (yellowing)",
+            "right_method": "At most every 2 to 3 weeks"
+          },
+          {
+            "ingredient": "Rice water",
+            "mistake": "Fermented: promotes harmful anaerobic bacteria",
+            "right_method": "Use the same day, or refrigerate for up to 24 h"
+          }
+        ],
+        "summary": "Homemade fertilizers work well as long as they are properly prepared and dosed: dilution, grinding, soaking, and moderate frequency.",
+        "image": "files/homemade-fertilizers-mistakes.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "type": "infographic",
+      "title": "Engrais maison : les erreurs qui abîquent (transcript in English)",
+      "original_language": "fr",
+      "date": "2026-11-22",
+      "file": "files/homemade-fertilizers-mistakes.md",
+      "image": "files/homemade-fertilizers-mistakes.jpg"
+    }
+  ],
+  "relations": [],
+  "files": [
+    {
+      "path": "files/homemade-fertilizers-mistakes.md",
+      "kind": "source_md"
+    },
+    {
+      "path": "files/homemade-fertilizers-mistakes.jpg",
+      "kind": "image",
+      "description": "Infographic: homemade fertilizers, the mistakes that damage plants"
+    }
+  ]
+}

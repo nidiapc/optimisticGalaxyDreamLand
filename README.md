@@ -7,7 +7,7 @@ Personal knowledge base organized with the **Open Knowledge Format (OKF)** — s
 | Domain | Index | Contents |
 | ------ | ----- | -------- |
 | Health | [health/_index.json](./health/_index.json) | 2 components, 1 protocol |
-| Botany | [botany/_index.json](./botany/_index.json) | 1 horticulture unit (fruits); ecology & paysage empty for now |
+| Botany | [botany/_index.json](./botany/_index.json) | 2 horticulture units (fruits, protocols); ecology & paysage empty for now |
 
 ## Structure
 
@@ -30,7 +30,8 @@ myKnowledge/
 
 ### Botany
 
-- **Horticulture** — [fruits: lemon seed germination](./botany/horticulture/fruits/notes.md)
+- **Horticulture: fruits** — [lemon seed germination](./botany/horticulture/fruits/notes.md)
+- **Horticulture: protocols** — [homemade fertilizers: common mistakes](./botany/horticulture/protocols/notes.md)
 
 ## Adding knowledge
 

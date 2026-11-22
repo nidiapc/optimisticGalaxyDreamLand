@@ -11,6 +11,14 @@
       "path": "horticulture/fruits/",
       "status": "active",
       "updated": "2026-11-22"
+    },
+    {
+      "id": "botany.horticulture.protocols",
+      "type": "horticulture",
+      "title": "Protocols",
+      "path": "horticulture/protocols/",
+      "status": "active",
+      "updated": "2026-11-22"
     }
   ]
 }
