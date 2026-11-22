@@ -1,0 +1,58 @@
+{
+  "okf_version": "0.1",
+  "id": "botany.horticulture.fruits",
+  "type": "horticulture",
+  "title": "Fruits",
+  "status": "active",
+  "version": "1.0.0",
+  "created": "2026-11-22",
+  "updated": "2026-11-22",
+  "summary": "Horticulture notes on fruit trees. Currently covers how to germinate lemon seeds, from seed preparation to a young lemon plant.",
+  "tags": [
+    "fruits",
+    "lemon",
+    "citrus",
+    "seed germination",
+    "propagation",
+    "horticulture"
+  ],
+  "details": {
+    "what_it_is": "Fruit-tree propagation and care notes.",
+    "topics": [
+      {
+        "title": "How to germinate lemon seeds",
+        "steps": [
+          "Retrieve the seeds",
+          "Clean the seeds thoroughly",
+          "Remove the outer film (membrane)",
+          "Place on damp cotton",
+          "Wait for germination (approx. 7 days)",
+          "Plant the germinated seed",
+          "Growth of the first true leaves",
+          "Growing lemon plant"
+        ],
+        "image": "files/lemon-seed-germination.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "type": "guide",
+      "title": "How to germinate lemon seeds",
+      "date": "2026-11-22",
+      "file": "files/lemon-seed-germination.md"
+    }
+  ],
+  "relations": [],
+  "files": [
+    {
+      "path": "files/lemon-seed-germination.md",
+      "kind": "source_md"
+    },
+    {
+      "path": "files/lemon-seed-germination.jpg",
+      "kind": "image",
+      "description": "Lemon seed germination"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "okf_version": "0.1",
+  "id": "health.component.butyrate",
+  "type": "component",
+  "title": "Butyrate",
+  "status": "active",
+  "version": "1.0.0",
+  "created": "2026-11-21",
+  "updated": "2026-11-21",
+  "summary": "A short-chain fatty acid produced when gut bacteria (e.g. Faecalibacterium prausnitzii, Roseburia) ferment dietary fiber; the primary energy source for colon cells. Strengthens the gut barrier, crosses the blood-brain barrier, and supports weight, blood sugar and inflammation control.",
+  "tags": [
+    "butyrate",
+    "short-chain fatty acid",
+    "gut microbiome",
+    "fiber fermentation",
+    "colon cells",
+    "gut barrier",
+    "tight junctions",
+    "faecalibacterium prausnitzii",
+    "roseburia",
+    "inflammation",
+    "endotoxin",
+    "mitochondria",
+    "blood-brain barrier",
+    "apoptosis",
+    "fermented foods",
+    "resistant starch"
+  ],
+  "details": {
+    "what_it_is": "A short-chain fatty acid produced when gut bacteria (e.g. Faecalibacterium prausnitzii, Roseburia) ferment dietary fiber; it is the primary energy source for colon cells.",
+    "gut_barrier": "Keeps tight junctions strong and maintains the mucus layer, preventing undigested food, bacteria, and toxins from leaking into the bloodstream and triggering systemic inflammation.",
+    "systemic_benefits": [
+      "Crosses the blood-brain barrier (linked to lower Alzheimer's risk via Eubacterium / Eisenbergiella)",
+      "Supports weight management and blood sugar control via hunger hormones",
+      "Promotes apoptosis in damaged colon cells (lower colorectal cancer risk)"
+    ],
+    "how_to_increase": {
+      "diet": [
+        "A diverse range of fiber sources (fruits, vegetables, whole grains, beans)",
+        "Resistant starch from cooled potatoes/rice",
+        "Fermented foods (kefir, sauerkraut, kimchi, grass-fed yogurt)"
+      ],
+      "cautions": [
+        "Increase fiber gradually if gut health is compromised, to avoid endotoxin buildup",
+        "Ensure mitochondrial function is optimal first"
+      ]
+    },
+    "good_for": [
+      "gut health",
+      "gut barrier integrity",
+      "weight management",
+      "blood sugar control",
+      "brain health",
+      "Alzheimer's risk reduction",
+      "colorectal cancer risk reduction",
+      "immune response",
+      "inflammation reduction",
+      "inflammatory bowel disease",
+      "metabolic health",
+      "obesity prevention",
+      "diabetes prevention",
+      "digestive stability",
+      "mood regulation"
+    ]
+  },
+  "sources": [
+    {
+      "type": "article",
+      "author": "Mercola",
+      "title": "Understanding butyrate",
+      "date": "2026-06",
+      "file": "files/understanding-butyrate-pdf.pdf"
+    }
+  ],
+  "relations": [],
+  "files": [
+    {
+      "path": "files/understanding-butyrate-pdf.pdf",
+      "kind": "source_pdf"
+    }
+  ]
+}

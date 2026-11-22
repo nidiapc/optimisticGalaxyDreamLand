@@ -1,0 +1,16 @@
+{
+  "okf_version": "0.1",
+  "domain": "botany",
+  "title": "Botany",
+  "updated": "2026-11-22",
+  "units": [
+    {
+      "id": "botany.horticulture.fruits",
+      "type": "horticulture",
+      "title": "Fruits",
+      "path": "horticulture/fruits/",
+      "status": "active",
+      "updated": "2026-11-22"
+    }
+  ]
+}

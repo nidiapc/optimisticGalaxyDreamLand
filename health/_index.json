@@ -1,0 +1,32 @@
+{
+  "okf_version": "0.1",
+  "domain": "health",
+  "title": "Health",
+  "updated": "2026-11-21",
+  "units": [
+    {
+      "id": "health.component.methylene-blue",
+      "type": "component",
+      "title": "Methylene blue",
+      "path": "components/methylene-blue/",
+      "status": "active",
+      "updated": "2026-11-21"
+    },
+    {
+      "id": "health.component.butyrate",
+      "type": "component",
+      "title": "Butyrate",
+      "path": "components/butyrate/",
+      "status": "active",
+      "updated": "2026-11-21"
+    },
+    {
+      "id": "health.protocol.bio-protocolo-cancer",
+      "type": "protocol",
+      "title": "BioProtocolo — cáncer integrativo y metabólico (Karim A Nesr)",
+      "path": "protocols/bio-protocolo-cancer/",
+      "status": "active",
+      "updated": "2026-11-21"
+    }
+  ]
+}
