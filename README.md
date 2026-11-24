@@ -1,6 +1,6 @@
-# myKnowledge
+# Optimistic Galaxy Dream Land
 
-Personal knowledge base organized with the **Open Knowledge Format (OKF)** — see [OKF.md](./OKF.md) for the full spec (v0.1).
+Personal knowledge.
 
 ## Domains
 
